@@ -24,7 +24,7 @@ Installation
 
 Clone the Repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/A1h9m9/nodejs-and-expressjs-e-commerce.git
 cd your-repository
 
 Install Dependencies
@@ -45,7 +45,7 @@ Run the Server
 
 npm start
 
-The server will run on http://localhost:5000.
+The server will run on http://localhost:3000.
 
 API Endpoints
 
